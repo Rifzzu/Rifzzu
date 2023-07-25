@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifzzu\&layout=donut)](https://github.com/rifzzu/github-readme-stats)
 <!--
 **Rifzzu/Rifzzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
